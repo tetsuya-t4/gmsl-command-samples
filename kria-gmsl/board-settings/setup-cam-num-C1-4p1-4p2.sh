@@ -1,0 +1,1 @@
+curl  -d '{"cam_type": "1", "num_p1": 4, "num_p2": 4}' -H "Content-Type: application/json" -X POST http://kria-gmsl.local:3000/setup-cam-num

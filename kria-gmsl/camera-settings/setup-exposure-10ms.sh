@@ -1,0 +1,1 @@
+curl -d '{"index": 0, "exposure": 10000}' -H "Content-Type: application/json" -X POST http://kria-gmsl.local:3000/setup-exposure

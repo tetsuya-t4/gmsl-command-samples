@@ -1,0 +1,1 @@
+curl -d '{"timestamp":"1","frame":"1", "timestamp_capture":"1"}' -H "Content-Type: application/json" -X POST http://kria-gmsl.local:3000/apply-timestamp

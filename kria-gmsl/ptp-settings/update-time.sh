@@ -1,0 +1,1 @@
+curl -X POST http://kria-gmsl.local:3000/update-time

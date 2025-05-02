@@ -1,0 +1,1 @@
+curl -H "Content-Type: application/json" -X POST http://kria-gmsl.local:3000/command -d @trigger.json
